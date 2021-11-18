@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingCritch
 - 👀 I’m interested in ... learning front end and back end web dev. 
-- 🌱 I’m currently learning ... Tackling the Odin Project - wish me luck!
+- 🌱 I’m currently learning ... Front End Web Development, if you have any pointers please reach out!
 - 💞️ I’m looking to collaborate on ... Nothing currently, but maybe in the future!
 - 📫 How to reach me ... clayton.critchfield@gmail.com
 
